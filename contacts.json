@@ -1,0 +1,16 @@
+{
+  "Pavlo": {
+    "name": "Pavlo",
+    "phones": [
+      "1112223334"
+    ],
+    "birthday": "28.05.1977"
+  },
+  "Illia": {
+    "name": "Illia",
+    "phones": [
+      "2223334445"
+    ],
+    "birthday": "11.11.2011"
+  }
+}
